@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a4 as o}from"./chunks/framework.BnB_jVUe.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"macos/index.md","filePath":"macos/index.md"}'),c={name:"macos/index.md"},s=o("",4),r=[s];function n(_,i,d,h,l,m){return t(),e("div",null,r)}const u=a(c,[["render",n]]);export{f as __pageData,u as default};
