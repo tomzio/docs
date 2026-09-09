@@ -1,0 +1,1 @@
+import{_ as a,o,c as t,ag as i}from"./chunks/framework.DGzMGr_a.js";const _=JSON.parse('{"title":"SSH 配置","description":"","frontmatter":{},"headers":[],"relativePath":"ssh/index.md","filePath":"ssh/index.md"}'),r={name:"ssh/index.md"};function s(l,e,n,d,c,h){return o(),t("div",null,[...e[0]||(e[0]=[i("",6)])])}const m=a(r,[["render",s]]);export{_ as __pageData,m as default};
